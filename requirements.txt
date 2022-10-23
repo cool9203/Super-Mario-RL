@@ -1,8 +1,7 @@
 numpy
 torch>=1.6.0
 torchvision
-gym
-nes-py
-gym-super-mario-bros
+gym==0.26.2
+nes-py==8.2.1
 opencv-python
 matplotlib
